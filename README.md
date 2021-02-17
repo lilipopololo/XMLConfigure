@@ -1,0 +1,2 @@
+spring和mybatis的xml配置文件
+各种xml模板原始配置文件
